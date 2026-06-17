@@ -36,7 +36,7 @@ International consulting firm specialized in Data & Analytics for IBEX 35 client
 - **Telefónica Tech:** Designed and created dashboards for labor hour management and distribution at enterprise level
 - **Cellnex Telecom:** Developed financial KPI visualizations and geospatial analysis of antenna infrastructure, supporting investment and maintenance decisions across multiple countries
 
-### **Armería Armar** | Data Management & Analysis Lead  
+### **Armar** | Data Management & Analysis Lead  
 *Tucumán, Argentina | 2022 - 2023*
 
 Led digital transformation of the company, including data infrastructure and operational strategy.
