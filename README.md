@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst · Industrial Engineer · Python · SQL · Machine Learning · Power BI</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nicolas-spector/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/nicolas-esteban-spector"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:spector.nico@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/NicolasSpector"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge"/>
@@ -121,7 +121,7 @@ Led digital transformation of the company, including data infrastructure and ope
 ## 🤝 Let's Connect
 
 I'm always interested in discussing data science, cloud architecture, or potential opportunities.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nicolas-spector/) or [email](mailto:spector.nico@gmail.com).
+Feel free to reach out via [LinkedIn](www.linkedin.com/in/nicolas-esteban-spector) or [email](mailto:spector.nico@gmail.com).
 
 ---
 
