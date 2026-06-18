@@ -109,15 +109,6 @@ Led digital transformation of the company, including data infrastructure and ope
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NicolasSpector&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasSpector&layout=compact&theme=dark&hide_border=true" width="40%"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in discussing data science, cloud architecture, or potential opportunities.  
