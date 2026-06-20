@@ -118,5 +118,5 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/nicolas-esteba
 
 <p align="center">
   <i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i><br>
-  <i>Currently working towards building an international career in Data Science · Open to remote roles in Europe</i>
+  <i>Currently working towards building an international career in Data Science.</i>
 </p>
